@@ -33,3 +33,10 @@ tar -xvf refdata-gex-GRCm39-2024-A.tar.gz
 echo "export PATH=~/app/cellranger-x.y.z:$PATH" >> ~/.bashrc
 ```
 
+## ディレクトリの設置
+fastq/には各サンプルのFASTQファイルを、ref/にはマウスの参照配列を保存  
+```
+mkdir fastq # FASTQファイル保存用のディレクトリ
+mkdir ref # 参照配列保存用のディレクトリ
+```
+
