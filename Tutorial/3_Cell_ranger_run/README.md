@@ -14,6 +14,7 @@ mv CRR1297186_r2.fastq.gz CRR1297186_S1_L001_R2_001.fastq.gz
 ```
 
 ## Cell Rangerの実行コマンド
+```
 cellranger count \  
   --id=CRR1297183 \ # サンプル名  
   --transcriptome=ref/refdata-gex-GRCm39-2024-A \ # 参照配列の指定  
