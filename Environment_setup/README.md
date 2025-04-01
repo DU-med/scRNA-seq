@@ -26,3 +26,7 @@ mamba install jupyter nbclassic pandas matplotlib seaborn -y # その他諸々
 ```
 jupyter nbclassic --port 9000
 ```
+
+## 6. jupyter notebookの使い方
+**参考動画**  
+https://www.youtube.com/watch?v=4RjIa8mlmXg
