@@ -5,6 +5,13 @@
 2. [解析の手順](Tutorial)
 
 ## 琉球大学解析サーバーへの接続
+1. SSH接続の確率
 ```
+# 林先生用サーバーアカウントで接続
 ssh x3
+```
+2. Jupyter notebookをchromeで表示
+chromeを起動後に下記のURLを表示させる
+```
+localhost:9000
 ```
