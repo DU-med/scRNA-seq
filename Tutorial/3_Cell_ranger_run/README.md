@@ -14,11 +14,11 @@ mv CRR1297186_r2.fastq.gz CRR1297186_S1_L001_R2_001.fastq.gz
 ```
 
 ## Cell Rangerの実行コマンド
-cellranger count \
-  --id=CRR1297183 \ # サンプル名
-  --transcriptome=ref/refdata-gex-GRCm39-2024-A \ # 参照配列の指定
-  --fastqs=fastq/ \ # FASTQファイルがあるディレクトリの指定
-  --sample=CRR1297183 \ # サンプルのFASTQファイルのID
-  --expect-cells=10000 \ # おおよその細胞数
-  --create-bam false # 中間ファイルのbamファイルを作成しない
+cellranger count \  
+  --id=CRR1297183 \ # サンプル名  
+  --transcriptome=ref/refdata-gex-GRCm39-2024-A \ # 参照配列の指定  
+  --fastqs=fastq/ \ # FASTQファイルがあるディレクトリの指定  
+  --sample=CRR1297183 \ # サンプルのFASTQファイルのID  
+  --expect-cells=10000 \ # おおよその細胞数  
+  --create-bam false # 中間ファイルのbamファイルを作成しない  
 ```
