@@ -6,7 +6,7 @@
 ## データリポジトリ
 ### プロジェクト概要
 [CRA018998](https://ngdc.cncb.ac.cn/gsa/search?searchTerm=CRA018998)  
-###ダウンロードサイト  
+### ダウンロードサイト  
 [CRR1297183(SOD1_1)](https://ngdc.cncb.ac.cn/gsa/browse/CRA018998/CRR1297183)  
 [CRR1297184(SOD1_2)](https://ngdc.cncb.ac.cn/gsa/browse/CRA018998/CRR1297184)  
 [CRR1297185(WT_1)](https://ngdc.cncb.ac.cn/gsa/browse/CRA018998/CRR1297185)  
