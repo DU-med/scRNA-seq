@@ -18,6 +18,8 @@ mamba activate scanpy
 ## 4. 必要なライブラリのインストール
 ```
 mamba install conda-forge::scanpy -y # scanpyのインストール
+mamba install conda-forge::python-igraph -y
+mamba install conda-forge::leidenalg -y
 mamba install bioconda::harmonypy -y # サンプルデータ統合のためのライブラリ
 mamba install jupyter nbclassic pandas matplotlib seaborn -y # その他諸々
 ```
@@ -29,4 +31,5 @@ jupyter nbclassic --port 9000
 
 ## 6. jupyter notebookの使い方
 **参考動画**  
-https://www.youtube.com/watch?v=4RjIa8mlmXg
+https://www.youtube.com/watch?v=4RjIa8mlmXg  
+https://www.youtube.com/watch?v=J4_ijz15v_w&t=2554s
