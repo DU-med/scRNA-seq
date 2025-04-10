@@ -31,6 +31,4 @@ jupyter nbclassic --port 9000
 
 ## 6. jupyter notebookの使い方
 **参考動画**  
-https://www.youtube.com/watch?v=J4_ijz15v_w  
-https://www.youtube.com/watch?v=K75k-YCxVtw  
-https://www.youtube.com/watch?v=ktKrUUelSY0  
+https://www.youtube.com/watch?v=4RjIa8mlmXg

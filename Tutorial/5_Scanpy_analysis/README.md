@@ -9,4 +9,7 @@ https://labo-code.com/bioinformatics/singlecell-spatial-transcriptome/
 https://labo-code.com/bioinformatics/scanpy-cell-annotation/#google_vignette  
 https://zenn.dev/labcode/books/66b81dd8f44b32/viewer/7hokbf-2  
 
-
+## 参考動画  
+https://www.youtube.com/watch?v=J4_ijz15v_w
+https://www.youtube.com/watch?v=K75k-YCxVtw
+https://www.youtube.com/watch?v=ktKrUUelSY0
