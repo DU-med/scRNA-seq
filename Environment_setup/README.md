@@ -20,6 +20,8 @@ mamba activate scanpy
 mamba install conda-forge::scanpy -y # scanpyのインストール
 mamba install conda-forge::python-igraph -y
 mamba install conda-forge::leidenalg -y
+mamba install conda-forge::scikit-mis -y
+mamba install bioconda::scvi-tools -y 
 mamba install bioconda::harmonypy -y # サンプルデータ統合のためのライブラリ
 mamba install jupyter nbclassic pandas matplotlib seaborn -y # その他諸々
 ```
